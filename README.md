@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Python 🐍 & Go 🐹  
   
 
-- ⚡ Fun fact: I love, love, love Classical Music 🎵  
+- ⚡ Fun fact: I love Classical Music 🎵  
   
 
 <br/>  
